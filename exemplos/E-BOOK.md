@@ -12,5 +12,5 @@ Utilizei o "ChatGPT" para criar contos baseados em personagens que eu utilizo em
 ## 🚀 Resultados
 No e-book demontro como as IAs Genativas podem ser uma ferramenta poderosa na criação de conteudo.
 
-[LINK PARA O E-BOOK AQUI]()
+
 
